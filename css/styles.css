@@ -12,7 +12,10 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-image: url('../img/premium_photo-1683309565422-77818a287060.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     color: white;
     padding: 20px 0;
     text-align: center;
